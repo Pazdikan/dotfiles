@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Dracula Theme",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'FiraCode Nerd Font Mono', monospace",
+    "editor.fontLigatures": true,
+    "editor.codeLensFontFamily": "'FiraCode Nerd Font Mono', monospace",
+    "terminal.integrated.fontFamily": "'FiraCode Nerd Font Mono', monospace",
+    "workbench.startupEditor": "none",
+}
