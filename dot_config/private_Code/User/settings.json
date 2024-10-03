@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "Aurora X",
+    "editor.fontFamily": "'FiraCode Nerd Font Mono', monospace",
+    "editor.fontLigatures": true,
+    "editor.codeLensFontFamily": "'FiraCode Nerd Font Mono', monospace",
+    "terminal.integrated.fontFamily": "'FiraCode Nerd Font Mono', monospace",
+    "workbench.startupEditor": "none",
+    "editor.lineHeight": 1.5,
+    "editor.fontWeight": "500",
+    "editor.fontSize": 14,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorStyle": "block",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "window.newWindowDimensions": "maximized",
+    "workbench.iconTheme": null,
+    "workbench.tips.enabled": false,
+    "workbench.tree.renderIndentGuides": "always",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "terminal.external.windowsExec": "C:\\Program Files\\PowerShell\\7\\pwsh.exe"
+  }
+  
